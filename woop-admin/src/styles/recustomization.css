@@ -1,0 +1,43 @@
+#woop-nav.navbar {
+    background-color: #003D8E;
+    padding: 0;
+    padding-right:  1.25em;
+
+    font-size: 1.1em;
+}
+
+#woop-nav .container{
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+#woop-nav .nav-link {
+    margin-right: 2.5em;
+    color: #ffffff !important;
+    letter-spacing: 0.05em;
+}
+
+#woop-nav .nav-link:hover {
+    color: #ffd483 !important;
+}
+
+#woop-nav .nav-link.active {
+    font-weight: bold;
+    color: #F6A91C !important;
+}
+
+#woop-nav .navbar-brand img {
+    height: 3em;
+}
+
+#woop-nav .navbar-brand {
+    background-color: #004AAD;
+    padding: 1em;
+    box-shadow: 4px -4px 4px 4px #0000001b;
+}
+
+.col-3,
+.col-6 {
+    padding: 0;
+    margin: 0;
+}
