@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     # apps
     'accounts',
     'customer',
+    'rider',
     'transactions',
 ]
 
